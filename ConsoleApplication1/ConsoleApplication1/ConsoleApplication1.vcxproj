@@ -76,6 +76,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="13.1.cpp" />
+    <ClCompile Include="13.2.cpp" />
+    <ClCompile Include="13.5.cpp" />
+    <ClCompile Include="14.3.cpp" />
+    <ClCompile Include="14.7.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CIRCLE.h" />
+    <ClInclude Include="Complex.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
